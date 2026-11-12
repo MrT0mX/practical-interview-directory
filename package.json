@@ -1,21 +1,25 @@
 {
-  "name": "hiring-without-whiteboards",
+  "name": "practical-interview-directory",
   "version": "0.1.0",
-  "description": "Companies that don't have a broken hiring process",
+  "description": "A directory of companies with practical, role-related interview processes",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/remark-cli/cli.js README.md -f -q"
+    "test": "node ./node_modules/remark-cli/cli.js README.md -f -q",
+    "check:listings": "node scripts/check-listing-freshness.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poteto/hiring-without-whiteboards.git"
+    "url": "git+https://github.com/MrT0mX/practical-interview-directory.git"
   },
   "keywords": [
-    "hiring"
+    "hiring",
+    "technical-interviews",
+    "practical-interviews",
+    "whiteboard-free"
   ],
-  "author": "Lauren Tan <arr@sugarpirate.com> (http://www.sugarpirate.com)",
+  "author": "MrT0mX",
   "license": "MIT",
-  "homepage": "https://github.com/poteto/hiring-without-whiteboards#readme",
+  "homepage": "https://github.com/MrT0mX/practical-interview-directory#readme",
   "dependencies": {
     "remark-cli": "^12.0.1",
     "remark-lint": "^10.0.1",

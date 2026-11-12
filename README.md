@@ -1,19 +1,54 @@
-# Hiring Without Whiteboards
+# Practical Interview Directory
 
-A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" are used as a metaphor, and are a _symbol_ for the kinds of CS trivia questions that are associated with bad interview practices. Whiteboards are not bad – CS trivia questions are. Using sites like HackerRank/LeetCode _probably_ fall into a similar category.
+A community-maintained directory of companies and teams that use practical, role-related technical interviews instead of unrelated computer-science trivia. Whiteboards themselves are not the problem; the problem is using them for trivia, puzzles, and brainteasers. Sites like HackerRank or LeetCode may fall into the same category when they test unrelated skills.
 
-The companies and teams listed here use interview techniques and questions that resemble day-to-day work. For example, pairing on a real world problem or a paid/unpaid take home exercise. Read (and contribute to) [our recommendations](RECOMMENDATIONS.md) for ways to conduct better interviews.
+Listings describe reported interview practices, such as discussing real work, reviewing a project, pairing on a realistic task, or completing a take-home exercise. Read and contribute to [our recommendations](RECOMMENDATIONS.md) for better interviews.
 
-### tl;dr
+## Quick guide
 
-- Discussing a real world problem (with or without whiteboard) is 👍
-- Solving CS trivia, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
+| At a glance | What it means |
+| --- | --- |
+| 👍 Practical interviews | Realistic, role-related problems, project discussions, or pairing |
+| 👎 Trivia interviews | Unrelated CS trivia, puzzles, riddles, or brainteasers |
+| 🕰️ Historical report | No source and verification date are shown; the process may have changed |
+| ✅ Recently checked | A public source and its last-checked date are included |
 
-Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to be added.
+Reports describe a company's process at a point in time; interviews can differ by role, level, team, and location. The directory is not a current job-opening list.
+
+### Browse the directory
+
+| Section | Companies |
+| --- | --- |
+| [0–9](#0---9) | Names beginning with a number |
+| [A–C](#a---c) | Companies A–C |
+| [D–F](#d---f) | Companies D–F |
+| [G–I](#g---i) | Companies G–I |
+| [J–L](#j---l) | Companies J–L |
+| [M–O](#m---o) | Companies M–O |
+| [P–R](#p---r) | Companies P–R |
+| [S–U](#s---u) | Companies S–U |
+| [V–X](#v---x) | Companies V–X |
+| [Y–Z and symbols](#y---z-and-symbols) | Companies Y–Z and symbols |
+
+### Recently source-checked reports
+
+| Company | Reported interview format | Practical assessment | Last checked |
+| --- | --- | --- | --- |
+| [Automattic](https://automattic.com/work-with-us/how-we-hire-developers/) | Near-real-world take-home, then a part-time trial project | Paid trial; no whiteboarding in its published developer process | 2026-11-13 |
+| [DuckDuckGo](https://duckduckgo.com/how-we-hire) | Role-specific projects completed asynchronously | Paid; no live coding or unrelated puzzles in its published process | 2026-11-13 |
+| [GitLab](https://handbook.gitlab.com/handbook/hiring/candidate-faq/) | Assessment and technical interview steps vary by role | Payment and live-coding details are not stated in the public handbook | 2026-11-13 |
+
+These are source-checked examples, not endorsements or guarantees for every team. Listings without source links and dates are historical community reports and have not yet been re-verified.
+
+Please open a [PR](https://github.com/MrT0mX/practical-interview-directory/pull/new/main) to add or update an entry. See the [contribution guide](CONTRIBUTING.md).
+
+### Keeping reports current
+
+When a report changes, update the existing listing and explain what changed in the pull request. Git history preserves previous versions. Reports with a source check older than 12 months are flagged for review by the scheduled check; a flag means "please re-check," not that the report is necessarily wrong.
 
 ### Duds
 
-If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
+If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/MrT0mX/practical-interview-directory/pull/new/main) to update or remove the listing.
 
 ### Discussion and other reads
 
@@ -79,7 +114,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Ataccama](https://jobs.ataccama.com) | Prague, Czech Republic | Face to face interview (skype or onsite), coding task for 30 min, meeting with team members
 - [Atlan](https://atlan.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
-- [Automattic](https://automattic.com/work-with-us/) | Remote | short take-home code test, then a part-time, paid project.
+- [Automattic](https://automattic.com/work-with-us/how-we-hire-developers/) | Remote | **Format:** take-home, then a paid part-time trial (typically 2–8 weeks); **Assessment:** near-real-world code; **Live coding:** Automattic says its developer process does not use whiteboarding. Source: [How We Hire Developers](https://automattic.com/work-with-us/how-we-hire-developers/); checked 2026-11-13.
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
@@ -240,7 +275,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Drivy](https://www.drivy.com) | Paris, France | Phone screening followed by a take-home assignment, "Resume" interview, technical interview, product interview, interview with another team, finalizing the hire
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [dubizzle](https://apply.workable.com/bayutdubizzle/#jobs) | Dubai, UAE; Sindh, Pakistan; Cluj County, Romania | Take home assignment, general technical questions, pair programming with engineers or tech leads
-- [DuckDuckGo](https://duckduckgo.com/hiring) | Remote | Up to two paid projects and video call interviews.
+- [DuckDuckGo](https://duckduckgo.com/how-we-hire) | Remote | **Format:** role-specific asynchronous projects; **Assessment:** simulates real work; **Exercise:** paid; **Live coding:** no, per the company's published process. Candidates should be transparent about AI use. Source: [How We Hire](https://duckduckgo.com/how-we-hire); checked 2026-11-13.
 - [EatSleepRIDE](https://www.eatsleepride.com) | Toronto, Canada | Interview with CTO to discuss current experience/projects. Take home assignment. Behavioral interview with rest of the team.
 - [Eaze](https://eaze.com/careers) | San Francisco, CA | Take home project, on-site interview building off of the project
 - [eBay Kleinanzeigen](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/germany) | Berlin, Germany | 45 mins technical phone interview, take-home project/review, on-site interview including pair programming with team lead and agile interview with product manager.
@@ -319,7 +354,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [GenUI](https://www.genui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
 - [Ghost Inspector](https://ghostinspector.com/jobs) | Remote | Video interview, short (under 2 hour) take-home project, and team video interview
 - [GitHub](https://github.com/about/careers) | Remote; San Francisco, CA; Boulder, CO| Take-home exercise, code review and technical discussions.
-- [GitLab](https://about.gitlab.com/jobs/apply/) | Remote | A series of video calls, and a coding exercise involving working on a Merge Request that is like a real work task
+- [GitLab](https://handbook.gitlab.com/handbook/hiring/candidate-faq/) | Remote | **Format:** assessment and technical interview vary by role; **Exercise / live coding:** not stated in the public handbook. Community reports mention a practical Merge Request task; ask the recruiter about the process for your role. Source: [Candidate Handbook](https://handbook.gitlab.com/handbook/hiring/candidate-faq/); checked 2026-11-13.
 - [Glassdoor](https://glassdoor.com) | Remote; San Francisco, CA; Chicago, IL; Uniontown, OH | A series of video calls, some coding exercises involving real world problems (Styling a page with CSS, Using JavaScript to fetch data from an API and display on a page.
 - [Glints](https://glints.com/sg/inside/careers/) | Singapore, Singapore; Jakarta, Indonesia | Culture fit interview, take home assignment that resembles a real-world problem, walkthrough about the assignment
 - [Goalbook](https://goalbookapp.com/careers/) | Remote | Virtual interviews with recruiter, sr engineer, and hiring manager. Short real-world take-home project w/ follow-up conversation. Final interviews w/ CEO/Founder and Product team lead.
@@ -803,7 +838,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [XING](https://www.xing.com) | Hamburg, Germany | Take-home coding challenge, on-site review and short interviews with future team.
 - [Xplor](https://ourxplor.com) | Melbourne, Australia; London, UK | Phone Cultural Fit interview, Take home-code challenge, pair-programming session and discussion about past experience
 
-## Y - \#
+## Y - Z and symbols
 
 - [23 Technologies](https://23technologies.cloud) | Remote | Three video calls: general introduction, team introduction, contract
 - [3D Hubs](https://3dhubs.com/jobs) | Amsterdam, The Netherlands | Take-home code challenge from our product's domain followed by discussion remote/on-site, sometimes do an additional on-site pair programming session.
@@ -825,4 +860,4 @@ If you've been through an interview with one of these companies recently, and yo
 
 - [They Whiteboarded Me!](https://they.whiteboarded.me)
 
-[![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/MrT0mX/practical-interview-directory/actions/workflows/node.js.yml/badge.svg)](https://github.com/MrT0mX/practical-interview-directory/actions/workflows/node.js.yml)
