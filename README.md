@@ -845,7 +845,7 @@ If you've been through an interview with one of these companies recently, and yo
 
 ## Y - Z and symbols
 
-- [23 Technologies](https://23technologies.cloud) | Remote | Three video calls: general introduction, team introduction, contract
+- 23 Technologies | Remote | Three video calls: general introduction, team introduction, contract
 - [3D Hubs](https://3dhubs.com/jobs) | Amsterdam, The Netherlands | Take-home code challenge from our product's domain followed by discussion remote/on-site, sometimes do an additional on-site pair programming session.
 - [47 Degrees](https://47-degrees.breezy.hr) | Remote; Seattle, WA; Madrid, ESP; Cadiz, ESP; London, UK | Questions related to implementation of specific projects using popular functional programming libraries and techniques and a discussion about the tradeoffs. Discussion of past open-source projects/contributions and future open-source goals. **Note:** This company looks for people who have modern functional programming experience in Haskell, Scala, Swift, or Kotlin and it looks for people who have existing open-source contributions in those fields so the roles can be a bit self-selecting.
 - [4Degrees](https://4degrees.ai/about/) | Chicago, Illinois | Collaborative pair-programming exercise done through video chat that's representative of the responsibilities of the job then a take-home programming task.
