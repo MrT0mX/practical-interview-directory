@@ -22,7 +22,7 @@ Each listed company was checked for a current, primary source that explicitly de
 
 The audit verifies evidence, not the experience of every candidate. Processes may vary by role, level, team, location, and date. Unverified does **not** mean a company violates the criteria, has stopped hiring, or should automatically be removed.
 
-Some company websites block automated link checkers with HTTP 403. The link-check workflow accepts that response so bot protection is not mistaken for a dead link; it does not count as confirmation that a page is accessible to every visitor or that its interview information is current. Moved career links were updated to official company pages where available. Where a domain was unreachable or had an invalid TLS certificate, the company name was retained as a historical entry but its unsafe or dead link was removed. These link changes do not change an entry's verification status.
+Some company websites block automated link checkers with HTTP 403. The link-check workflow accepts that response so bot protection is not mistaken for a dead link; it does not count as confirmation that a page is accessible to every visitor or that its interview information is current. Six company sites return an HTTP/2 protocol error to lychee but return HTTP 200 over HTTP/1.1; the workflow excludes those exact URLs from lychee and checks them separately with curl over HTTP/1.1. Moved career links were updated to official company pages where available. Where a domain was unreachable or had an invalid TLS certificate, the company name was retained as a historical entry but its unsafe or dead link was removed. These link changes do not change an entry's verification status.
 
 ## Follow-up
 

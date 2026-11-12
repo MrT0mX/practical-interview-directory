@@ -34,11 +34,29 @@ jobs:
             --no-progress
             --require-https
             --accept 403
+            --exclude '^https://www\.graphistry\.com/$'
+            --exclude '^https://holobuilder\.com/$'
+            --exclude '^https://desmart\.com/$'
+            --exclude '^https://popularpays\.com/$'
+            --exclude '^https://popstand\.com/$'
+            --exclude '^https://softwear\.nl/$'
             --cache
             --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
             'README.md'
           output: ${{ runner.temp }}/lychee/out.md
           fail: true
+      - name: Check HTTP/2-incompatible company sites with HTTP/1.1
+        run: |
+          for url in \
+            'https://www.graphistry.com/' \
+            'https://holobuilder.com/' \
+            'https://desmart.com/' \
+            'https://popularpays.com/' \
+            'https://popstand.com/' \
+            'https://softwear.nl/'
+          do
+            curl --http1.1 --fail --location --silent --show-error --max-time 30 --output /dev/null "$url"
+          done
       - uses: actions/cache@v5
         with:
           path: .lycheecache
