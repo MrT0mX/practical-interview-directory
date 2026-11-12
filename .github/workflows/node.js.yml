@@ -33,7 +33,7 @@ jobs:
             --verbose
             --no-progress
             --require-https
-            --accept 403
+            --accept 200,403
             --exclude '^https://www\.graphistry\.com/$'
             --exclude '^https://holobuilder\.com/$'
             --exclude '^https://desmart\.com/$'
