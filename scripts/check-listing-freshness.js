@@ -3,7 +3,7 @@ const path = require("node:path");
 
 const readmePath = path.join(__dirname, "..", "README.md");
 const readme = fs.readFileSync(readmePath, "utf8");
-const listingPattern = /^- \[([^\]]+)\]\([^)]+\)\s*\|.*$/gm;
+const listingPattern = /^- (?:\[([^\]]+)\]\([^)]+\)|([^|]+))\s*\|.*$/gm;
 const checkedPattern = /\bchecked (\d{4}-\d{2}-\d{2})\b/;
 const today = new Date();
 const latestAllowedDate = new Date(
@@ -22,6 +22,7 @@ let match;
 while ((match = listingPattern.exec(readme)) !== null) {
   total += 1;
   const [line] = match;
+  const company = match[1] || match[2].trim();
   const lineNumber = readme.slice(0, match.index).split("\n").length;
   const checkedMatch = line.match(checkedPattern);
   const hasSource = /\bSource:\s*\[[^\]]+\]\(https?:\/\/[^)]+\)/.test(line);
@@ -32,7 +33,7 @@ while ((match = listingPattern.exec(readme)) !== null) {
   }
 
   if (!checkedMatch || !hasSource) {
-    console.error(`Listing metadata is incomplete: ${match[1]} (line ${lineNumber})`);
+    console.error(`Listing metadata is incomplete: ${company} (line ${lineNumber})`);
     invalid += 1;
     continue;
   }
@@ -42,13 +43,13 @@ while ((match = listingPattern.exec(readme)) !== null) {
     Number.isNaN(checkedDate.getTime()) ||
     checkedDate.toISOString().slice(0, 10) !== checkedMatch[1]
   ) {
-    console.error(`Invalid verification date: ${match[1]} (line ${lineNumber})`);
+    console.error(`Invalid verification date: ${company} (line ${lineNumber})`);
     invalid += 1;
     continue;
   }
 
   if (checkedDate > latestAllowedDate) {
-    console.error(`Verification date is in the future: ${match[1]} (line ${lineNumber})`);
+    console.error(`Verification date is in the future: ${company} (line ${lineNumber})`);
     invalid += 1;
     continue;
   }
@@ -56,7 +57,7 @@ while ((match = listingPattern.exec(readme)) !== null) {
   verified += 1;
 
   if (checkedDate < oldestCurrentDate) {
-    staleListings.push({ company: match[1], date: checkedMatch[1], lineNumber });
+    staleListings.push({ company, date: checkedMatch[1], lineNumber });
   }
 }
 

@@ -193,7 +193,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Calendly](https://careers.calendly.com) | Remote; Atlanta, GA; Austin, TX | Initial phone screen followed by a panel interview primarily focused on a low-stress and real world set of problems.
 - [Capgemini UK Java Team](https://www.capgemini.com/gb-en) | London, UK; Woking, UK; Bristol, UK; Cardiff, Wales; Birmingham, UK; Manchester, UK; Leeds, UK; Rotherham, UK; Liverpool, UK; Newcastle, UK; Edinburgh, Scotland; Glasgow, Scotland | Technical telephone interview (30 minutes), take-home non-CompSci coding exercise (3-4 hours), face-to-face role-played consulting scenario involving a solution architecture and a delivery plan (two hours)
 - [Caravelo](https://www.caravelo.com/careers) | Barcelona, Spain | Take home project, then technical discussion about the code in-person or Skype and hang out with the team.
-- [Careera](https://careera.io) | Singapore, Singapore | Video/phone interview, code review
+- Careera | Singapore, Singapore | Video/phone interview, code review
 - [CARTO](https://www.carto.com/careers/) | Madrid, Spain | Phone screen, take-home project, team code review/interview, hiring manager interview
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Causeway](https://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work, then face to face round to write small solutions to common problems in related field.
@@ -207,7 +207,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [City of Boston's Analytics Team](https://boston.gov/analytics) | Boston, MA | Take-home project and in-person or phone/Skype interviews
 - [Civis Analytics](https://www.civisanalytics.com/careers) | Chicago, IL | Take-home project and discussion via Skype, followed by pair programming exercise
 - [CJ Affiliate](https://www.cj.com/careers) | Los Angeles, CA & Westlake Village, CA | Phone coding design exercise (no algorithms), followed by an on-site final interview that includes pair programming on a realistic object-oriented design problem
-- [Clara Lending](https://clara.com/careers) | San Francisco, CA | Phone conversation around technical background and experience, followed by take-home project, pair programming and discussion
+- [Clara Lending](https://www.clara.com) | San Francisco, CA | Phone conversation around technical background and experience, followed by take-home project, pair programming and discussion
 - [Clarisights](https://careers.clarisights.com) | Bangalore, India / Remote | Culture fit Interview, Basic Tech Round, Design Interview
 - [ClickMagick](https://www.clickmagick.com) | Austin, TX / Remote | Phone conversations and examples of Free Software/Open Source work
 - [Clipboard](https://www.clipboardhealth.com/careers) | San Francisco, CA / New York, NY / Remote | 1 hour take-home project, followed by team interviews which include live coding, discussion of the take-home project, and discussion of technical background and experience.
@@ -253,10 +253,10 @@ If you've been through an interview with one of these companies recently, and yo
 - [DataChef](https://DataChef.co) | Amsterdam, Netherlands | Video call (technical questions about candidate's achievements), take home assignment, cultural fit zoom or face to face with rest of the team.
 - [DataMade](https://datamade.us) | Chicago, IL | After submitting an application, selected applicants are moved on to a round of interviews and will be asked to submit a piece of code for review. If you don’t have any code you can share, DataMade will provide a short exercise for you to complete. An in-person (or remote) interview will be scheduled to go over your background, what draws you to DataMade, and your code sample.
 - [Def Method](https://www.defmethod.com) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
-- [Delivery Much](https://carreiras.deliverymuch.com.br) | Florianópolis, Brazil & Remote | On-site (and/or remote) interviews about the company and the opening, with a short take-home project for leveling.
+- [Delivery Much](https://deliverymuch.com.br) | Florianópolis, Brazil & Remote | On-site (and/or remote) interviews about the company and the opening, with a short take-home project for leveling.
 - [Dentolo](https://www.dentolo.de) | Berlin, Germany | Phone interview with the HR department, take-home project and technical interview to discuss your skill set + general questions
-- [Deskbookers](https://www.deskbookers.com/en-gb/jobs) | Amsterdam, Netherlands | Phone screen, take-home project, on-site interview
-- [DeSmart](https://www.desmart.com) | Gdynia, Poland | Technical interview, take-home project and talk about your experience
+- [Deskbookers](https://www.spacebase.com/en/) | Amsterdam, Netherlands | Phone screen, take-home project, on-site interview
+- [DeSmart](https://desmart.com) | Gdynia, Poland | Technical interview, take-home project and talk about your experience
 - [Detroit Labs](https://www.detroitlabs.com/careers) | Detroit, MI | Our technical interview starts with a take-home assignment that we will look at during the interview. You'll walk us though your thought process, add functionality if applicable to the interview, and talk about your experience. We believe that showing us your work in a practical setting is more telling of your abilities and what you will bring to the table, than writing code on a whiteboard.
 - [DEV](https://jobs.dev.to) | Remote | Written application, job-specific questionnaire and/or task, team interviews (total interview time under two hours)
 - [DevBoost](https://devboost.com/karriere) | Dresden, Germany | On-site get-to-know interview, on-site pair-programming and discussion
@@ -283,7 +283,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [DuckDuckGo](https://duckduckgo.com/how-we-hire) | Remote | **Format:** role-specific asynchronous projects; **Assessment:** simulates real work; **Exercise:** paid; **Live coding:** no, per the company's published process. Candidates should be transparent about AI use. Source: [How We Hire](https://duckduckgo.com/how-we-hire); checked 2026-11-13.
 - [EatSleepRIDE](https://www.eatsleepride.com) | Toronto, Canada | Interview with CTO to discuss current experience/projects. Take home assignment. Behavioral interview with rest of the team.
 - [Eaze](https://eaze.com/careers) | San Francisco, CA | Take home project, on-site interview building off of the project
-- [eBay Kleinanzeigen](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/germany) | Berlin, Germany | 45 mins technical phone interview, take-home project/review, on-site interview including pair programming with team lead and agile interview with product manager.
+- [eBay Kleinanzeigen (now Kleinanzeigen)](https://www.kleinanzeigen.de) | Berlin, Germany | 45 mins technical phone interview, take-home project/review, on-site interview including pair programming with team lead and agile interview with product manager.
 - [Ecaresoft](https://careers.ecaresoft.com) | Monterrey, Mexico | Cultural fit session and Predictive Index test with recruiter, best piece of code review and technical interview with engineers
 - [Echobind](https://echobind.com/culture) | Boston, MA; Remote | Meet the entire team, share examples of previous work and pair with one team member
 - [Edenspiekermann](https://jobs.edenspiekermann.com) | Amsterdam, Netherlands / Berlin, Germany / Los Angeles, CA / San Francisco, CA / Singapore, Singapore | On-site chat about skills and past experiences, review some code samples or a take-home assignment
@@ -316,7 +316,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Exoscale](https://exoscale.ch) | Lausanne, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
 - [Eyevinn Technology](https://www.eyevinntechnology.se) | Stockholm, Sweden | Remote or face 2 face interview followed by take-home project. Then a discussion on-site where we go through the technical aspects of the project.
-- [Facebook (Front End Engineer)](https://www.metacareers.com/jobsearch) | Tel Aviv, Israel; London, UK; US: Menlo Park, CA; Seattle, WA; Washington, DC | Initial phone code interview, then on site interview (or remote when not possible) with code and design / architecture interviews. All questions are based on actual problems the company has solved in the past.
+- [Facebook (Front End Engineer)](https://www.metacareers.com) | Tel Aviv, Israel; London, UK; US: Menlo Park, CA; Seattle, WA; Washington, DC | Initial phone code interview, then on site interview (or remote when not possible) with code and design / architecture interviews. All questions are based on actual problems the company has solved in the past.
 - [Facile.it](https://jobs.facile.it) | Milan, Italy; Cagliari, Italy; Remote | Initial call/Skype interview with HR. Tech interview about OOP concepts, HTTP and REST API design questions with 2 engineers. Brief talk with VP of Engineering or CTO.
 - [Fairwinds](https://fairwinds.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Falcon.io](https://www.falcon.io/jobs/) | Copenhagen, Denmark | Initial call/Skype culture interview. Take-home tech assignment (game) and code review. On-site Interview about your experience and meeting the team.
@@ -344,7 +344,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [FreeAgent](https://www.freeagent.com/company/careers) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
 - [Freetrade](https://www.freetrade.io/careers) | London, England | Initial hangout with fizz buzz style question followed by an on-site real world coding question and systems design conversation.
-- [Frontside](https://frontside.io) | Austin, Texas | Phone interview with remote pairing session. Followed by in person pairing (paid for the day) and lunch with the team.
+- Frontside | Austin, Texas | Phone interview with remote pairing session. Followed by in person pairing (paid for the day) and lunch with the team.
 - [Full Facing](https://www.fullfacing.com/vacancies) | Cape Town, South Africa | Take-home real-world challenge, interview on-site or remote
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
@@ -371,7 +371,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Grafton Studio](https://graftonstudio.com) | Boston, MA | Take-home project, discussion on-site
 - [Gram Games](https://gram.gs) | London, UK / Istanbul, Turkey | Initial interview -> Take home -> Take home discussion call -> On site code review and technical discussions
 - [Gramercy Tech](https://www.gramercytech.com) | New York, NY | Pair programming & discussion on-site
-- [Grape](https://www.chatgrape.com/jobs/) | Vienna, Austria / Remote | GitHub or code samples -> Pair programming -> Skype/phone interview
+- Grape | Vienna, Austria / Remote | GitHub or code samples -> Pair programming -> Skype/phone interview
 - [Graph Digital](https://graph.digital) | London, UK | Initial screening call with Engineering Manager, take-home challenge or bring your own project, discussion about solution/project and past experience with two engineers, culture fit interview.
 - [Graphicacy](https://www.graphicacy.com) | Washington, DC | Phone interview; in-person or virtual interview depending on location and availability; two brief technical assignments focused on flexibility, creativity, and general competency
 - [Graphistry](https://www.graphistry.com) | San Francisco, CA; Remote | Discuss product/market, engineering, and culture, review past code/project, and for junior developers, choice of take home or code review.
@@ -393,7 +393,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Hiventive](https://www.hiventive.com) | Pessac, France | Phone interview, home coding challenge, on-site interview with general programming questions, discussion of proposed solutions and personal experience.
 - [Holaluz - Platform Team](https://www.holaluz.com/en/work-with-us/) | Barcelona, Spain | Intro call with HHRR, Small tech test with Terraform and some technical and non-technical questions, Interview with manager, Interview with the Platform Team, Small chat interview with the CEO.
 - [HolidayPirates](https://holidaypirates.group/832-2/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
-- [HoloBuilder](https://www.holobuilder.com) | Aachen, Germany | Take-home project, discussion via Skype or on-site
+- [HoloBuilder](https://holobuilder.com) | Aachen, Germany | Take-home project, discussion via Skype or on-site
 - [Hologram](https://www.hologram.io/careers) | Chicago, IL; Remote | Intro call, take-home project taken from production work, pair programming exercise
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HomeLight](https://www.homelight.com/engineering) | San Francisco, CA; Scottsdale, AZ; Seattle, WA | Phone screen, take home that is close to production code, onsite with pair programming
@@ -412,11 +412,11 @@ If you've been through an interview with one of these companies recently, and yo
 - [InfoSum](https://www.infosum.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
-- [Innoplexus](https://www.innoplexus.com/careers) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
+- Innoplexus | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
 - [Innovia CoLabs](https://www.innoviacolabs.com) | Rochester, NY / Remote | Zoom interview with two to three engineers and you share projects/code you're proud of; only reviewing code you wrote yourself. Most of the interview is about culture fit and who you are as a person. There is a blog on the website that outlines the interview and will contact you prior to tell you exactly what the interview will be like.
 - [Integral.](https://www.integral.io) | Detroit, MI | 3-step process (100% remote): tech-screening with an engineer for 30 minutes, remote pair-programming and test driven development exercise for 1 hour, conversation with engineering leadership for 30 minutes.
 - [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
-- [Interfrog Produktion GmbH](https://interfrog.de/jobs) | Mannheim, Germany | Phone interview with developer and CEO to get to know each other and to understand skills and background. Follow-up interview to discuss technical realization of sample work which is handed over after the first interview.
+- [Interfrog Produktion GmbH](https://interfrog.de) | Mannheim, Germany | Phone interview with developer and CEO to get to know each other and to understand skills and background. Follow-up interview to discuss technical realization of sample work which is handed over after the first interview.
 - [InvestSuite](https://www.investsuite.com/jobs) | Remote; Leuven, Belgium | Take home project -> discuss with 2 developers on-site or remote -> job offer
 - [IONOS SE](https://jobs.ionos.de/career/about-us) | Karlsruhe, Germany; Berlin, Germany | Our process has two stages for developers: An interview with your potential team lead followed by an interview with 1-2 future colleagues. All stages can be in-person in one of our offices or via Google Meet.
 - [IT Experts](https://itexperts.be) | Eeklo, Belgium | On site interview -> 1 or 1/2 day at the office to solve a real world problem with the team -> job offer.
@@ -496,7 +496,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Mattermost](https://mattermost.com/careers/) | Remote | Follow-up questions over email, a couple of video calls, audition (paid real-world “try out” project), video call to discuss audtion, and then a video call with the CTO
 - [Mavenlink](https://www.mavenlink.com/careers) | San Francisco, CA; Irvine, CA; Salt Lake City, UT | On-site pairing with multiple engineers. Pairing exercises and pairing on company code.
 - [Maxio](https://www.maxio.com/careers) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
-- [Maxwell Health](https://www.maxwellhealth.com/careers) | Boston, MA | Take-home exercise or pairing session with team. Then conversational meetings with members of the team.
+- Maxwell Health | Boston, MA | Take-home exercise or pairing session with team. Then conversational meetings with members of the team.
 - [Me & Company](https://me-company.de/jobs/) | Düsseldorf, Germany | You join us for one or two paid trial days to work on an assignment and to meet the team.
 - [MealMe](https://mealme.ai) | San Francisco, California | Initial introductory interview, 1 hour technical interview with CTO (real-world problem), rapid fire questions about thinking and working in a start-up.
 - [Media Pop](https://mediapop.co) | Singapore, Singapore | Take-home or unsupervised (onsite) real-world assignment
@@ -509,7 +509,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [milch & zucker](https://www.milchundzucker.de) | Gießen, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
 - [Minute Media](https://www.minutemedia.com/careers/) | Tel-Aviv, Israel | Phone screening with engineer. On-site real-world challenge questions with two engineers. Sometimes a take-home assignment or existing code sample submission.
 - [Miro](https://miro.com/careers/) | Amsterdam, NL; Berlin, DE; London, UK | Screen-share your own IDE and code our assignment, on your terms. We share the problem 24 hours in advance, but ask you to only configure the IDE beforehand, so 100% of your coding happens during the interview.
-- [Mirumee](https://mirumee.com/jobs) | Wroclaw, Poland; Remote | Pair programming and code review using one of the issues (or Pull Requests) in our open-source Saleor project, general discussion about programming, technology and candidate's experience
+- [Mirumee](https://mirumee.com/careers) | Wroclaw, Poland; Remote | Pair programming and code review using one of the issues (or Pull Requests) in our open-source Saleor project, general discussion about programming, technology and candidate's experience
 - [Mixmax](https://mixmax.com/careers) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
 - [Mobile Reality](https://themobilereality.com/careers) | Warsaw, Poland | Interview with technical questions and practical task to do in home for 3-5 hours. Candidate has freedom in terms of project environment and setup. After few days feedback arrives in email.
 - [MobileCashout](https://www.mobilecashout.com) | Barcelona, Spain; Valencia, Spain | Quick introduction video call with a tech (less than 10-15 minutes). On-site open source contribution to a project of candidates choosing, paired with a tech from the team. Interview and a short questionnaire about software design and relevant technologies. Interview and presentation of the company with a HR rep.
@@ -535,7 +535,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Netlandish](https://www.netlandish.com) | Los Angeles, CA; Remote | Takehome exercise, chat interview, video interview
 - [Netlify](https://www.netlify.com/careers) | San Francisco, CA / Remote | Takehome project and online/onsite discussion
 - [Neulabs](https://neulabs.com) | Milan, Italy | Initial phone screen with HR. Brief talk with VP of Engineering or CTO. Small take-home project followed by a technical review with 1 or more engineers & a culture-fit discussion.
-- [Neural Lab](https://neurallab.io) | Shatin, Hong Kong; Remote | Online non-technical (Behavioural) interview, followed by a Technical Interview with the core team - mainly revolving around the real-world problems, best approaches and some scenario based questions.
+- Neural Lab | Shatin, Hong Kong; Remote | Online non-technical (Behavioural) interview, followed by a Technical Interview with the core team - mainly revolving around the real-world problems, best approaches and some scenario based questions.
 - [New Relic](https://newrelic.com/about/careers) | San Francisco, CA | Takehome exercise &/ or pair programming session depending on the team
 - [NewStore](https://www.newstore.com/careers/) | Berlin, Germany; Hannover, Germany; Erfurt, Germany; Boston, MA | Telephone technical interview, code sample submission or takeaway coding exercise, on-site pair programming, design session (1/2 day)
 - [Nexapp](https://www.nexapp.ca) | Quebec City, Canada | Video call where we get to know you more and you get to know us more, followed by a video call technical interview where we discuss a few open-ended problems strongly inspired by the daily real-world work we do.
@@ -589,7 +589,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
 - [Pager](https://pager.com) | New York, NY; Remote | Short phone interview, conversational interviews, take-home exercise & discussion
 - [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, Canada / Atlanta, GA | Zoom / on-site pair programming and tasks
-- [Parabol](https://parabol.co) | New York, NY; Los Angeles, CA; Remote | Culture check followed by compensated, [open-source contribution](https://github.com/ParabolInc/action/projects) skills evaluation
+- [Parabol](https://parabol.co) | New York, NY; Los Angeles, CA; Remote | Culture check followed by compensated, [open-source contribution](https://github.com/ParabolInc/parabol) skills evaluation
 - [Pariveda Solutions](https://parivedasolutions.com) | Dallas, TX / Houston, TX / Atlana, GA / Washington, DC / New York, NY / Chicago, IL / San Francisco, CA / Seattle, WA / Los Angeles, CA | Personality assessment (Predictive Index) and case study. Programming aptitude test (language independent) for college hires.
 - [Passiv](https://passiv.com) | Fredericton, Canada | Zoom interview, take-home coding assignment, standalone bite-size project that delivers some value, small feature development involving team collaboration.
 - [Pathos Ethos](https://pathosethos.com/careers/) | Durham, NC / Raleigh, NC / Chapel Hill, NC / Remote | 3 conversational interviews (Manager, Team, Founder). No homework. We look for a candidate to be "culture add" instead of "culture fit"
@@ -613,8 +613,8 @@ If you've been through an interview with one of these companies recently, and yo
 - [Plivo](https://www.plivo.com/jobs) | Remote; Bengaluru, India | 1-2 technical rounds and 1 HR round - questions around basic foundations, system design, projects and real world problems
 - [Poki](https://jobs.poki.com) | Amsterdam, The Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Poll Everywhere](https://www.polleverywhere.com/jobs) | Remote | Introduction call, 1 hour take home technical assessment, pairing session with Designer and Engineer to enhance technical challenge submission, Meeting with CTO and hiring manager.
-- [Popstand](https://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
-- [Popular Pays](https://www.popularpays.com) | Chicago, IL | Phone chat/coffee to determine what will be worked on during a day of pair-programming on a real problem that the candidate thinks best demonstrates their skills.
+- [Popstand](https://popstand.com) | Los Angeles, CA | Build MVPs for startups
+- [Popular Pays](https://popularpays.com) | Chicago, IL | Phone chat/coffee to determine what will be worked on during a day of pair-programming on a real problem that the candidate thinks best demonstrates their skills.
 - [Posit](https://posit.co) | Remote | Video calls with recruiter then engineering management, take home project, video call for code review with engineering lead
 - [Pragmateam](https://pragma.team/talent) | Sydney, Australia | Engineering Consultancy And Delivery - Takehome exercise & discussion
 - [PremiumBeat](https://www.premiumbeat.com/careers) | Montreal, Canada | Discussion and general, high level questions
@@ -648,7 +648,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Relabe](https://relabe.com) | San Juan, PR | First we screen for cultural fit then check for technical proficiency. 2-3 Interviews max in SJ
 - [Remote](https://remote.com) | Remote | Call with a recruiter (if needed), call with manager, code exercise, call with team.
 - [Render](https://render.com/careers) | San Francisco, CA; Remote | Phone screen followed by an onsite project based on our day-to-day, real world challenges.
-- [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
+- Rentify | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
 - [Repl.it](https://repl.it/site/jobs) | San Francisco, CA / Remote | Take-home project and discussion, then an on-site project and discussion
 - [Resin.io](https://resin.io) | Remote | Take home real-world project and a couple of technical and non-technical discussions
 - [Resourcify](https://www.resourcify.com) | Hamburg, Germany; Remote | Get to know phone call with Engineering Manager and VP of People, pair programming a day-to-day problem with a Lead Engineer, meeting with team members.
@@ -674,7 +674,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Sailing Byte](https://sailingbyte.com) | Rumia, Poland | Technical interview, Take-home Task
 - [Sakari](https://sakari.io) | San Francisco, CA | Phone screen, programming assignment related to Sakari business (communications) with pair programming element, team and culture fit
 - [SaleCycle](https://www.salecycle.com/careers) | Durham, UK; Brighton, UK | Phone screen, face-to-face discussion with developers, optional pairing session and discussion
-- [Salesfive](https://www.salesfive.com/jobs) | Munich, Germany; Berlin, Germany | Phone screen, Phone Interview with developer to discuss code and challenges, Take home challenge if necessary. Onsite visit
+- [Salesfive](https://jobs.salesfive.com) | Munich, Germany; Berlin, Germany | Phone screen, Phone Interview with developer to discuss code and challenges, Take home challenge if necessary. Onsite visit
 - [Salesloft](https://salesloft.com) | Atlanta, GA | Phone interview, take-home project, cultural-fit interview, technical interview where candidate modifies take-home project
 - [Schibsted Tech Polska](https://www.schibsted.pl) | Gdańsk, Poland | Phone screen, take-home exercise, code review and technical discussion
 - [SearchApi](https://www.searchapi.io) | Remote | Culture interview, take-home coding challenge and technical interview
@@ -746,7 +746,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Take-Two Interactive](https://careers.take2games.com) | Bengaluru, India; Vancouver, Canada; London, UK; Singapore, Singapore; CA, NY, WA: United States | Data Engineering, Recruiter screening, followed by 1 round of fitment discussion, followed by a take home assignment(similar to actual work), followed by 1 round involving assignment solution discussion, programming language specific questions, and other role specific technical questions, followed by hiring manager discussion.
 - [Tandem](https://www.madeintandem.com) | Chicago, IL; San Francisco, CA | Introductory phone screen, take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [Tanooki Labs](https://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
-- [Tara AI](https://tara.ai/about/careers) | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
+- Tara AI | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Taxdoo](https://www.taxdoo.com/#/jobs/) | Hamburg, Germany | On-site interview, little takehome exercise, followup review/interview
 - [Teamwork.com](https://www.teamwork.com) | Remote; Cork, Ireland; Belfast, UK; Wilmington, USA | Initial conversation, remote values interview, takehome exercise, followup review/interview
@@ -791,7 +791,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Ubots](https://ubots.com.br) | Porto Alegre, Brazil | Skype/On-site interview, take-home project, technical interview
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
 - [Unboxed](https://unboxed.co) | London, UK | Take home feature requests, pairing with developers to extend solution, team-fit interviews, chat with a director
-- [Unearth](https://www.unearthlabs.com/careers) | Seattle, WA | Take home project, team-fit interviews, technical discussion
+- Unearth | Seattle, WA | Take home project, team-fit interviews, technical discussion
 - [Unito](https://unito.io/careers/) | Montreal, Canada | Team-fit interviews, technical discussion, paid take home project paired with developers.
 - [Untappd](https://www.untappd.com) | Wilmington, NC; New York, NY; Los Angeles, CA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Updater](https://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
