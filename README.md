@@ -734,7 +734,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Surglogs](https://surglogs.com/careers/slovakia/) | Remote | (Europe timezone) Phone screen, take-home assignment with a follow-up call, or live coding focused on building simple real-world scenarios (based on your preference), culture-fit call with team and CTO.
 - [SurveySparrow](https://surveysparrow.com/careers) | Kochi, India | Skype interview, take home project and code review, interview with CTO and CEO
 - [Svix](https://www.svix.com) | Remote | Take home project, an interview to discuss the project, and a cultural fit interview.
-- [SVTi (Sveriges Television)](https://svti.svt.se) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
+- [SVTi (Sveriges Television)](https://omoss.svt.se/jobba-har/tech.html) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
 - [Swiftly](https://www.swiftly.com/about/careers) | Seattle, WA; San Francisco, CA | Take-home coding project, design principles discussions, collaborative problem solving
 - [Swisscom](https://www.swisscom.ch/en/about/career.html) | Rotterdam, The Netherlands | A mix of behavioural, technical and cultural interview, take-home project, project review with engineers from different teams and cultural interview with staff members.
 - [Symphony Commerce](https://www.symphonycommerce.com/careers) | San Francisco, CA / Remote | Take-home project (phone), design discussion, review and critique _our_ code, debugging questions
