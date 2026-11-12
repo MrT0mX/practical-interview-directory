@@ -30,15 +30,20 @@ Reports describe a company's process at a point in time; interviews can differ b
 | [V–X](#v---x) | Companies V–X |
 | [Y–Z and symbols](#y---z-and-symbols) | Companies Y–Z and symbols |
 
-### Recently source-checked reports
+### Interview-process source audit
 
-| Company | Reported interview format | Practical assessment | Last checked |
+An audit of all **761 company listings** found four with current public evidence supporting the directory criteria, two that need more information before they can be classified, and 755 without a qualifying current company source. “Unverified” means the source could not be confirmed; it does not mean the company fails the criteria.
+
+| Status | Company | What the source says | Last checked |
 | --- | --- | --- | --- |
-| [Automattic](https://automattic.com/work-with-us/how-we-hire-developers/) | Near-real-world take-home, then a part-time trial project | Paid trial; no whiteboarding in its published developer process | 2026-11-13 |
-| [DuckDuckGo](https://duckduckgo.com/how-we-hire) | Role-specific projects completed asynchronously | Paid; no live coding or unrelated puzzles in its published process | 2026-11-13 |
-| [GitLab](https://handbook.gitlab.com/handbook/hiring/candidate-faq/) | Assessment and technical interview steps vary by role | Payment and live-coding details are not stated in the public handbook | 2026-11-13 |
+| ✅ Meets criteria | [Automattic](https://automattic.com/work-with-us/how-we-hire-developers/) | Near-real-world take-home and a paid part-time trial; its published developer process says no whiteboarding | 2026-11-13 |
+| ✅ Meets criteria | [DuckDuckGo](https://duckduckgo.com/how-we-hire) | Role-specific paid projects; no live coding, general brainteasers, or academic puzzles in its published process | 2026-11-13 |
+| ✅ Meets criteria | [Lob](https://www.lob.com/blog/how-we-interview-engineers) | Engineering interviews use real-world problems rather than algorithmic trivia | 2026-11-13 |
+| ✅ Meets criteria | [ThoughtWorks](https://www.thoughtworks.com/careers/our-process) | Role-specific pairing or case challenges; its published process says no trick questions | 2026-11-13 |
+| ⚠️ Needs review | [GitLab](https://handbook.gitlab.com/handbook/hiring/candidate-faq/) | Assessment and technical-interview steps vary by role; the handbook does not specify enough detail to classify them | 2026-11-13 |
+| ⚠️ Needs review | [Made Tech](https://github.com/madetech/handbook/blob/main/guides/hiring/pairing.md) | An internal guide describes a short paired coding kata; the source does not establish whether the exercise is role-related | 2026-11-13 |
 
-These are source-checked examples, not endorsements or guarantees for every team. Listings without source links and dates are historical community reports and have not yet been re-verified.
+The other **755 entries are historical/unverified**: no current company-authored interview-process source meeting the audit standard was confirmed. See the [verification report](VERIFICATION.md) for scope and details. Historical reports remain visible so contributors can update them; do not treat them as guarantees about every role or team.
 
 Please open a [PR](https://github.com/MrT0mX/practical-interview-directory/pull/new/main) to add or update an entry. See the [contribution guide](CONTRIBUTING.md).
 
@@ -470,7 +475,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [Litmus](https://www.litmus.com) | Remote | General technical questions, take-home code challenge, discussion, on-site programming session, meet & greet with the team
 - [LittleThings](https://littlethings.com) | New York, NY | Take home code challenge, Discussion
-- [Lob](https://lob.com/careers) | San Francisco, CA | Initial phone screen followed by an on-site interview. Technical problems discussed during the interview are all simplified versions of problems we've had to solve in production. Our entire interview process and what we're looking for is described in our blog post [How We Interview Engineers](https://lob.com/blog/how-we-interview-engineers).
+- [Lob](https://lob.com/careers) | San Francisco, CA | **Format:** engineering interviews include a coding discussion and code review; **Assessment:** real-world problems the team has encountered, not algorithmic trivia. Source: [How We Interview Engineers](https://www.lob.com/blog/how-we-interview-engineers); checked 2026-11-13.
 - [Locastic](https://locastic.com) | Split, Croatia | Take-home code challenge, technical discussion & on-site programming session, meet & greet with the team
 - [Logic Soft](https://logicsoft.co.in) | Chennai, India | Phone discussion, F2F pair programming exercise + discussion
 - [LonRes](https://www.lonres.com/public/working-us) | London, United Kingdom | Quick introduction call with tech (Skype), coding task for ≈1 hour, face-to-face interview (or via Skype) and meeting with team members.
@@ -482,7 +487,7 @@ If you've been through an interview with one of these companies recently, and yo
 
 ## M - O
 
-- [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
+- [Made Tech](https://www.madetech.com/careers) | London, UK | **Needs review:** an employee-facing guide describes a short paired coding kata (including Tennis or Bowling examples), but does not say whether the exercise is role-related. Confirm with the company before treating this as compliant. Source: [Pairing with interview candidates](https://github.com/madetech/handbook/blob/main/guides/hiring/pairing.md); checked 2026-11-13.
 - [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
 - [Major League Soccer](https://jobs.mlssoccer.com) | New York, NY | Phone interview + short take home project, which is daily work focused. In person interview could involve discussing past projects or pair programming.
 - [MakeMusic](https://www.makemusic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
@@ -756,7 +761,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Thinkmill](https://www.thinkmill.com.au) | Sydney, Australia | Initial meet and greet interview with Thinkmillers from the relevant team, take home assignment followed by tech review on a followup interview.
 - [Thinslices](https://www.thinslices.com) | Iasi, Romania | Takehome exercise & in person pair programming on a simple Kata.
 - [thoughtbot](https://thoughtbot.com/jobs) | San Francisco, CA; London, UK | [Our interview process](https://thoughtbot.com/playbook/our-company/hiring#interviewing)
-- [ThoughtWorks](https://www.thoughtworks.com/careers) | San Francisco, CA | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
+- [ThoughtWorks](https://www.thoughtworks.com/careers) | San Francisco, CA | **Format:** role-specific pairing, case challenge, or discussion; **Assessment:** role-related problems; the company says it uses no trick questions. Source: [Our application process](https://www.thoughtworks.com/careers/our-process); checked 2026-11-13.
 - [ThoughtWorks Singapore](https://www.thoughtworks.com/careers/singapore) | Singapore, Singapore | Interviews with ThoughtWorkers of diverse backgrounds and roles; Simple, live paired coding exercise in language of choice focused on clean code, not speed. Followed by refactoring paired interview, and technical discussion on modelling and system design, tech depth & breadth and team leading skills (if applicable).
 - [ThreatSpike Labs](https://www.threatspike.com) | London, UK | Take home computing and security related challenges to be completed over a week.
 - [Tilde](https://www.tilde.io) | Portland, OR | Pair programming sessions with each member of the team, working on problems similar to daily work.
