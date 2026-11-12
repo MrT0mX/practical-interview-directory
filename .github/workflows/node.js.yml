@@ -33,13 +33,15 @@ jobs:
             --verbose
             --no-progress
             --require-https
-            --accept 200,403
+            --accept 200,202,403,429
             --exclude '^https://www\.graphistry\.com/$'
             --exclude '^https://holobuilder\.com/$'
             --exclude '^https://desmart\.com/$'
             --exclude '^https://popularpays\.com/$'
             --exclude '^https://popstand\.com/$'
             --exclude '^https://softwear\.nl/$'
+            --exclude '^https://brainstation-23\.com/$'
+            --exclude '^https://www\.metacareers\.com/$'
             --cache
             --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
             'README.md'
@@ -53,7 +55,9 @@ jobs:
             'https://desmart.com/' \
             'https://popularpays.com/' \
             'https://popstand.com/' \
-            'https://softwear.nl/'
+            'https://softwear.nl/' \
+            'https://brainstation-23.com/' \
+            'https://www.metacareers.com/'
           do
             curl --http1.1 --fail --location --silent --show-error --max-time 30 --output /dev/null "$url"
           done

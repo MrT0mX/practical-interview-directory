@@ -128,7 +128,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Axios](https://www.axios.com/careers) | Arlington, VA / New York, NY / San Francisco, CA / Remote | Take-home project, with discussion.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | New York, NY | Take-home exercises and pair-programming with the team.
 - [Babylon Health iOS Team](https://github.com/Babylonpartners/iOS-Interview-Demo) | London, UK | Take-home project, on-site presentation and discussion, design and product interview.
-- [Backbase](https://workatbackbase.com) | Amsterdam, Netherlands; Cardiff, Wales; London, UK; Atlanta, GA | Takehome project, interviews
+- [Backbase](https://www.backbase.com/careers) | Amsterdam, Netherlands; Cardiff, Wales; London, UK; Atlanta, GA | Takehome project, interviews
 - [Badoo](https://team.bumble.com/jobs) | London, UK | Take-home project, then a discussion onsite round.
 - [BAE Systems Digital Intelligence](https://cybercareers.baesystems.com) | London, UK / Manchester, UK / Guildford, UK / Gloucester, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Norway; Amsterdam, Netherlands; Bonn, Germany | Skype interview followed by take-home assignment and a visit to one of our offices
@@ -159,7 +159,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
 - [Bloom Works](https://bloomworks.digital/jobs) | Remote | Discussion, pair-programming exercise
 - [Blue Bottle Coffee](https://www.bluebottlecoffee.com) | Oakland, CA | Technical Phone Screen, Take Home Challenge, Technical in-persons.
-- [Bluesoft](http://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
+- [Bluesoft](https://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [Bonusly](https://bonus.ly/careers) | Boulder, CO | Values & Tech focused interview - Process: 30 minute with HR, 45 minute Google Meet interview with 2 team members, ~2-4 hour take-home project, on-site interview involving 2 values-alignment interviews and 1 technical interview going over your take home project
 - [BookingSync](https://www.bookingsync.com/en/jobs) | Remote | Small takehome project, interviews over skype with team members.
@@ -345,7 +345,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
 - [Freetrade](https://www.freetrade.io/careers) | London, England | Initial hangout with fizz buzz style question followed by an on-site real world coding question and systems design conversation.
 - Frontside | Austin, Texas | Phone interview with remote pairing session. Followed by in person pairing (paid for the day) and lunch with the team.
-- [Full Facing](https://www.fullfacing.com/vacancies) | Cape Town, South Africa | Take-home real-world challenge, interview on-site or remote
+- Full Facing | Cape Town, South Africa | Take-home real-world challenge, interview on-site or remote
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
