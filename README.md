@@ -1,5 +1,7 @@
 # Practical Interview Directory
 
+Licensed under the [MIT License](LICENSE).
+
 A community-maintained directory of companies and teams that use practical, role-related technical interviews instead of unrelated computer-science trivia. Whiteboards themselves are not the problem; the problem is using them for trivia, puzzles, and brainteasers. Sites like HackerRank or LeetCode may fall into the same category when they test unrelated skills.
 
 Listings describe reported interview practices, such as discussing real work, reviewing a project, pairing on a realistic task, or completing a take-home exercise. Read and contribute to [our recommendations](RECOMMENDATIONS.md) for better interviews.
